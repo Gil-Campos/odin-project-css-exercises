@@ -1,0 +1,15 @@
+button {
+    font-size: 28px;
+    font-family: Arial, 'Times New Roman', sans-serif;
+}
+
+.black-bg {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.yellow-bg {
+    background-color: yellow;
+    color: black;
+}
