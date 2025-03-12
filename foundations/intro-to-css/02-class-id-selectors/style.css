@@ -1,0 +1,23 @@
+.common-text {
+    background-color: #f19a91;
+    color: #000;
+    font-family: Verdana, DejaVu, sans-serif;
+}
+
+#blue-text {
+    color: #0a0dbe;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.medium-text {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+#green-bg {
+    color: #000;
+    background-color: rgb(153, 235, 153);
+    font-size: 24px;
+    font-weight: 600;
+}
